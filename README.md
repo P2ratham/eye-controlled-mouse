@@ -1,2 +1,2 @@
-# get variouis python free code here 
+# get various python free code here 
 
