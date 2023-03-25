@@ -1,0 +1,12 @@
+let win = 69;
+let userguess = +prompt("type your ans");
+console.log(typeof userguess, userguess);
+if (userguess === win){
+    console.log("you won");
+}else{
+    if(userguess < win){
+        console.log("too low");
+    }
+}else{
+    console.log("too high");
+}
